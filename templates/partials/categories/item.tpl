@@ -2,9 +2,7 @@
 	<meta itemprop="name" content="{../name}">
 
 	<div class="col-md-7 col-sm-9 col-xs-12 content">
-		<div class="icon pull-left" style="{function.generateCategoryBackground}">
-			<i class="fa fa-fw {../icon}"></i>
-		</div>
+		<!-- IMPORT partials/categories/icon_link.tpl -->
 
 		<h2 class="title">
 			<!-- IMPORT partials/categories/link.tpl --><br />
